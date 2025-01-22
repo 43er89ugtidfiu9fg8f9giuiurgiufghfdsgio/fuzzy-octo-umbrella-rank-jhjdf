@@ -1,1 +1,5 @@
-
+{
+  "rewrites": [
+    { "source": "/promote", "destination": "/api/promote" }
+  ]
+}
